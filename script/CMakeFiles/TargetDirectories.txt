@@ -1,0 +1,3 @@
+/home/manadoona/work/udacity/robotics/lesson1/Project1/script/CMakeFiles/rebuild_cache.dir
+/home/manadoona/work/udacity/robotics/lesson1/Project1/script/CMakeFiles/edit_cache.dir
+/home/manadoona/work/udacity/robotics/lesson1/Project1/script/CMakeFiles/hello.dir
